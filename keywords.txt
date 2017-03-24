@@ -1,0 +1,5 @@
+Counter_4017	KEYWORD1
+
+clock	KEYWORD2
+clear	KEYWORD2
+onLastElement	KEYWORD2
